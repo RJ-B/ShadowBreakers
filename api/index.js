@@ -26,6 +26,8 @@ app.use("/api/carts", cartRoute);
 app.use("/api/orders", orderRoute);
 app.use("/api/checkout", stripeRoute);
 
+
 app.listen(process.env.PORT || 5000, () => {
-    console.log("Server běží na portu 5000");
+  console.log(`Server běží na portu ${port}`);
 });
+
