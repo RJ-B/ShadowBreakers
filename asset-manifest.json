@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ShadowBreakers/static/js/main.364f501b.js",
+    "static/media/coinsCat.jpg": "/ShadowBreakers/static/media/coinsCat.2ad37e232950841cf4a0.jpg",
+    "static/media/stampsCat.jpg": "/ShadowBreakers/static/media/stampsCat.84e005419e3467679ec7.jpg",
+    "static/media/banknoteCat.jpg": "/ShadowBreakers/static/media/banknoteCat.c8e8fa41e01eae21dfc5.jpg",
+    "static/media/banknote.jpg": "/ShadowBreakers/static/media/banknote.9e98046d9f1595a0a86d.jpg",
+    "static/media/coin.jpg": "/ShadowBreakers/static/media/coin.b2461f85b8e699782f1f.jpg",
+    "static/media/stamp.jpg": "/ShadowBreakers/static/media/stamp.78193e49b997cf77faf3.jpg",
+    "static/media/logo.png": "/ShadowBreakers/static/media/logo.0cb2aaaa14dae3ba8b36.png",
+    "index.html": "/ShadowBreakers/index.html",
+    "main.364f501b.js.map": "/ShadowBreakers/static/js/main.364f501b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.364f501b.js"
+  ]
+}
