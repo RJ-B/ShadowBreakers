@@ -2,10 +2,16 @@
   "name": "api",
   "version": "1.0.0",
   "main": "index.js",
+<<<<<<< HEAD
 "scripts": {
   "start": "node index.js",
   "dev": "nodemon index.js"
 },
+=======
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+>>>>>>> a2ab1112518d39227690f560726fa6511a2eee7d
   "keywords": [],
   "author": "",
   "license": "ISC",
